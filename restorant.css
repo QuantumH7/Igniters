@@ -1,5 +1,5 @@
 body{
-      background: linear-gradient(45deg, #2b1055, #7597de);
+      background: linear-gradient(45deg, #96929b, #7597de);
 }
 .logo{
     font-size: 30px;
@@ -16,4 +16,12 @@ body{
     font-size: 20px;
     margin-right: 10px;
     color: white;
+    background-color: #704b9e;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.nav a:hover{
+    background-color: rgb(89, 105, 119);
+
 }

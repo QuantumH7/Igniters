@@ -25,3 +25,11 @@ body{
     background-color: rgb(89, 105, 119);
 
 }
+form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+    color: rgb(20, 19, 19);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
